@@ -11,5 +11,5 @@
 <br>
 ![悠静萝莉的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=timi137137&layout=compact&theme=default)
 <br>
-[![最让我自豪的库-1](https://github-readme-stats.vercel.app/api/pin/?username=timi137137&repo=AuroraNavite)](https://github.com/timi137137/AuroraNavite)
+[![最让我自豪的库-1](https://github-readme-stats.vercel.app/api/pin/?username=timi137137&repo=AuroraNative)](https://github.com/timi137137/AuroraNative)
 [![最让我自豪的库-2](https://github-readme-stats.vercel.app/api/pin/?username=timi137137&repo=MeteorTools)](https://github.com/timi137137/MeteorTools)
