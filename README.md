@@ -7,13 +7,14 @@
 [![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+ 还有更多...
 > 次要使用：除了移动端以外你能想到的我基本上都用（没用过我可以学）
 
 🌱 正在学习更多新知识 
 
 💬 关于我更多：我是一位程序媛，以萝莉自称。有点笨有点倔，建议用实力折服我。什么都想学什么都干做，是个百合希望有人能陪我一辈子（做梦ing）
 
-📫 有事邮箱:[![](https://img.shields.io/badge/-i@mikuhl.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:i@mikuhl.cn)
+📫 有事邮箱: [![](https://img.shields.io/badge/-i@mikuhl.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:i@mikuhl.cn)
 
 ![悠静萝莉的Github状态](https://github-readme-stats.vercel.app/api?username=timi137137&theme=default&show_icons=true)
 <br>
