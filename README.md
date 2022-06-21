@@ -12,7 +12,7 @@
 
 🌱 正在学习更多新知识 
 
-💬 关于我更多：我是一位程序媛，以萝莉自称。有点笨有点倔，建议用实力折服我。什么都想学什么都干做，是个百合希望有人能陪我一辈子（做梦ing）
+💬 关于我更多：我是一位程序媛，以萝莉自称。有点笨有点倔，建议用实力折服我。什么都想学什么都干做，养了一堆娃娃缺钱（有项目请砸死我）
 
 📫 有事邮箱: [![](https://img.shields.io/badge/-i@mikuhl.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:i@mikuhl.cn)
 
