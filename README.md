@@ -12,15 +12,10 @@
 
 🌱 正在学习更多新知识 
 
-💬 关于我更多：我是一位程序媛，以萝莉自称。有点笨有点倔，建议用实力折服我。什么都想学什么都干做，养了一堆娃娃缺钱（有项目请砸死我）
+💬 关于我: 一个什么都学什么都写的菜鸟，希望学到更多新的知识然后轻松赚钱(?
 
 📫 有事邮箱: [![](https://img.shields.io/badge/-i@mikuhl.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:i@mikuhl.cn)
 
 ![悠静萝莉的Github状态](https://github-readme-stats.vercel.app/api?username=timi137137&theme=default&show_icons=true)
 <br>
-
 ![悠静萝莉的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=timi137137&layout=compact&theme=default)
-<br>
-
-[![最让我自豪的库-1](https://github-readme-stats.vercel.app/api/pin/?username=timi137137&repo=AuroraNative)](https://github.com/timi137137/AuroraNative)
-[![最让我自豪的库-2](https://github-readme-stats.vercel.app/api/pin/?username=timi137137&repo=MeteorTools)](https://github.com/timi137137/MeteorTools)
