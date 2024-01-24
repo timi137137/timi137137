@@ -1,21 +1,49 @@
-🔭 主要使用：
-[![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=fff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)](https://html.spec.whatwg.org)
-[![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)](https://www.ecma-international.org)
+![](https://count.getloli.com/get/@timi137137?theme=moebooru)
+
+**💖Hi there! I'm 悠静(Timi)💖**
+
+**🌱 I'm learning more new things**
+
+<br/>
+
+#### 💻Platforms
+
+[![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+[![](https://img.shields.io/badge/iPad-Pro%202021-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+
+#### 🔧Tools
+
+[![](https://img.shields.io/badge/WebStorm-前端-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/webstorm/)
+[![](https://img.shields.io/badge/IDEA-Java-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/idea/)
+[![](https://img.shields.io/badge/Visual-Studio-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Chrome-谷歌-4285F4?style=flat-square&logo=Google%20Chrome&labelColor=ffffff&logoColor=4285F4)](https://www.google.com/chrome/)
+[![](https://img.shields.io/badge/PyCharm-Python-21d789?style=flat-square&logo=PyCharm&labelColor=ffffff&logoColor=000000)](https://www.jetbrains.com/zh-cn/pyCharm/)
+[![](https://img.shields.io/badge/Photoshop-PS-31A8FF?style=flat-square&logo=Adobe%20Photoshop&labelColor=ffffff&logoColor=31A8FF)](https://www.adobe.com/cn/products/photoshop.html)
+[![](https://img.shields.io/badge/Lightroom-Lr-31A8FF?style=flat-square&logo=Adobe%20Lightroom&labelColor=ffffff&logoColor=31A8FF)](https://www.adobe.com/cn/products/lightroom.html)
+
+#### 📝Languages
+
+[![](https://img.shields.io/badge/-Typescript-31A8FF?style=flat-square&logo=typescript&logoColor=white)](https://www.typescript.com/)
+[![](https://img.shields.io/badge/Frame-.Net%208.0-512BD4?style=flat-square&logo=.net&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
- 还有更多...
-> 次要使用：除了移动端以外你能想到的我基本上都用（没用过我可以学）
+[![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/Java-17-e0161a?logo=Java&logoColor=e0161a)](https://www.oracle.com/cn/)
+[![](https://img.shields.io/badge/Python-3.11-326c9c?logo=Python&logoColor=326c9c)](https://www.python.org/)
 
-🌱 正在学习更多新知识 
+**And lot of ...**
 
-💬 关于我: 一个什么都学什么都写的菜鸟，希望学到更多新的知识然后轻松赚钱(?
+<br/>
 
-📫 有事邮箱: [![](https://img.shields.io/badge/-i@mikuhl.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:i@mikuhl.cn)
+**💬 About me:** A girl like animation, want to learn a lot of fresh knowledge to write their favorite program
+
+**📫 You can email at any time:** [![](https://img.shields.io/badge/-i@mikuhl.cn-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:i@mikuhl.cn)
+
+#### 📈Status
 
 ![悠静萝莉的Github状态](https://github-readme-stats.vercel.app/api?username=timi137137&theme=default&show_icons=true)
-<br>
-![悠静萝莉的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=timi137137&layout=compact&theme=default)
+![悠静萝莉的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=timi137137&theme=default&layout=compact)
