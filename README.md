@@ -48,5 +48,5 @@
 
 #### 📈Status
 
-![悠静萝莉的Github状态](https://github-readme-stats.vercel.app/api?username=timi137137&theme=default&show_icons=true)
-![悠静萝莉的语言使用情况](https://github-readme-stats.vercel.app/api/top-langs/?username=timi137137&theme=default&layout=compact)
+![悠静萝莉的Github状态](https://stats.mikui.cc/api?username=timi137137&theme=default&show_icons=true)
+![悠静萝莉的语言使用情况](https://stats.mikui.cc/api/top-langs/?username=timi137137&theme=default&layout=compact)
